@@ -343,6 +343,7 @@ The model can later be loaded using:
 loaded_model = joblib.load("hr_attrition_decision_tree.pkl")
 ```
 📓 **View the full Jupyter Notebook:** [HR Attrition Predictive Model](https://github.com/temee0/HR-Attriction-Predictive-model/blob/main/HR_Attrition_model.ipynb)
+
 ---
 
 ## Technologies Used
