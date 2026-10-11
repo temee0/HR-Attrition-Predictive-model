@@ -342,7 +342,7 @@ The model can later be loaded using:
 ```python
 loaded_model = joblib.load("hr_attrition_decision_tree.pkl")
 ```
-
+📓 **View the full Jupyter Notebook:** [HR Attrition Predictive Model](https://github.com/temee0/HR-Attriction-Predictive-model/blob/main/HR_Attrition_model.ipynb)
 ---
 
 ## Technologies Used
@@ -383,3 +383,6 @@ Exploring the data revealed several non-linear relationships, particularly aroun
 The first Decision Tree improved test accuracy to around 96%, but its 100% training accuracy showed that it was overfitting. After reducing the model's complexity, the final version achieved approximately 97.6% training accuracy and 97.1% testing accuracy while correctly identifying around 92% of employees who left.
 
 The project therefore became more than an exercise in increasing accuracy. It demonstrated the importance of understanding the data, selecting appropriate evaluation metrics, comparing algorithms, recognising overfitting, and focusing on how well a model performs on the business problem it is actually intended to solve.
+
+## Author
+**Oluwatimilehin Olugbade**
